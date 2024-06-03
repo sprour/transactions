@@ -1,0 +1,6 @@
+version: "2"
+services:
+  transaction:
+    build: .
+    ports:
+      - 3000:8080

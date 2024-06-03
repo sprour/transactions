@@ -1,0 +1,16 @@
+export const testNetInfo = {
+  name: 'BTC.test3',
+  height: 1611024,
+  hash: '00000000000000fb4f6c339619a17f940cc61f26776a193c3cd635ecd702b1b7',
+  time: '2019-12-03T14:18:00.653738307Z',
+  latest_url: 'https://api.blockcypher.com/v1/btc/test3/blocks/00000000000000fb4f6c339619a17f940cc61f26776a193c3cd635ecd702b1b7',
+  previous_hash: '000000000000015c91ce159ba360f242095d0b13b2b816958215cfbf646f23b2',
+  previous_url: 'https://api.blockcypher.com/v1/btc/test3/blocks/000000000000015c91ce159ba360f242095d0b13b2b816958215cfbf646f23b2',
+  peer_count: 238,
+  unconfirmed_count: 143,
+  high_fee_per_kb: 20480,
+  medium_fee_per_kb: 11849,
+  low_fee_per_kb: 11849,
+  last_fork_height: 1609747,
+  last_fork_hash: '00000000ea824b1031c9cc70549c10ccf1e6cd358bc2d226133ffb249c7ad228',
+};
